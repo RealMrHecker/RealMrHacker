@@ -1,37 +1,54 @@
-# ⚡ RealMrHacker | Multi-Stack Creative & Security Engineer
+# ⚡ RealMrHacker | Terminal Active ⚡
 
 <p align="center">
-  <img src="https://github.com/RealMrHacker.png" width="180" style="border-radius: 50%; border: 3px solid #00ff00;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=RealMrHacker&fontSize=80&animation=fadeIn&fontAlignY=35&theme=terminal" />
 </p>
 
-### 🎭 Who Am I?
-- 👨‍💻 **Web Developer**: Building responsive and secure web applications.
-- 🛡️ **Ethical Hacker**: Focused on penetration testing and system security.
-- 🎨 **Graphic Designer**: Creating high-impact visual identities and UI/UX.
-- 🎬 **Video Editor**: Professional storytelling and motion graphics.
-- 📹 **Content Creator**: Sharing tech and security knowledge on YouTube.
+---
+
+### 🟢 System Status: [ AUTHORIZED ]
+- 💻 **Main Terminal**: Web Development & Ethical Hacking
+- 🎨 **Creative Engine**: Graphic Design & Professional Video Editing
+- 📹 **Broadcast**: Content Creation @RealMrHeavy_YT
+- ⚡ **Current Mission**: Building secure, high-performance web ecosystems
 
 ---
 
-### 🚀 Technical Arsenal
+### 🛠️ Programming & Creative Arsenal
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Development** | `HTML5` `CSS3` `JavaScript` `React` `Python` |
-| **Cybersecurity** | `Linux` `Metasploit` `Nmap` `Wireshark` `BurpSuite` |
-| **Design/Editing** | `Photoshop` `Illustrator` `Premiere Pro` `After Effects` |
-| **Platforms** | `GitHub` `YouTube` `Vercel` `Kali Linux` |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,linux,bash,ps,pr,ae,discord&theme=dark" />
+</p>
 
 ---
 
-### 📊 Real-Time Stats
-![RealMrHacker's Stats](https://github-readme-stats.vercel.app/api?username=RealMrHacker&show_icons=true&theme=matrix&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealMrHacker&layout=compact&theme=matrix)
+### 📊 System Analytics (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RealMrHacker&show_icons=true&theme=matrix&rank_icon=github&count_private=true" alt="Hacker Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealMrHacker&theme=matrix" alt="Coding Streak" />
+</p>
 
 ---
 
-### 🌐 Digital Presence
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@RealMrHeavy_YT) 
-[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/invite/JKQcnT8QG4)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/RealMrHeavy1)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pubgwaligame97@gmail.com)
+### 🕸️ Global Connectivity
+<p align="center">
+  <a href="https://youtube.com/@RealMrHeavy_YT">
+    <img src="https://img.shields.io/badge/YouTube-00FF00?style=for-the-badge&logo=youtube&logoColor=black" />
+  </a>
+  <a href="https://discord.com/invite/JKQcnT8QG4">
+    <img src="https://img.shields.io/badge/Discord-00FF00?style=for-the-badge&logo=discord&logoColor=black" />
+  </a>
+  <a href="mailto:pubgwaligame97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealMrHacker&theme=matrix&area=true&hide_border=true" width="100%" />
+</p>
